@@ -1,3 +1,4 @@
 *** Rust notes
 
-- Integer Types Values
+- [[data_types/src/main.rs][Integer Types Values]]
+- [[rust-memory-container-cs][Rust Memory Container Cheat Sheet]]
